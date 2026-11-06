@@ -1,0 +1,32 @@
+Date: 2026-11-02
+Shift: Evening
+
+Machine: M-101
+Product: Tablet A
+Target: 500
+Actual: 505
+Downtime: 0
+Rejected: 6
+
+Machine: M-102
+Product: Tablet B
+Target: 500
+Actual: 340
+Downtime: 110
+Reason: Motor overheating
+Maintenance: Pending
+Notes: Motor smells burnt, kept running at low speed
+
+Machine: M-103
+Product: Capsule C
+Target: 400
+Actual: 395
+Downtime: 5
+Reason: Changeover
+
+Machine: M-104
+Product: Syrup D
+Target: 300
+Actual: 301
+Downtime: 0
+Rejected: 4
